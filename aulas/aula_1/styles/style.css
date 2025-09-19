@@ -1,0 +1,41 @@
+h1 {
+  color: green;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+div {
+  background-color: antiquewhite;
+  width: 400px;
+  height: 250px;
+  padding: 20px;
+  margin: 20px;
+  border-color: blue;
+  border-style: dashed;
+  font-family: Arial, sans-serif;
+}
+
+table {
+  border: 1px solid black;
+  text-align: center;
+}
+
+td {
+  border: 1px dashed black;
+  padding: 10px;
+  margin: 5px;
+}
+
+#max-depth {
+  background-color: aquamarine;
+  color: white;
+}
+
+.ocean {
+  background-color: aqua;
+  color: blue;
+}
+
+ul > li {
+  background-color: azure;
+}

@@ -1,0 +1,54 @@
+.navbar {
+  color: rgb(233, 233, 233) !important;
+  margin-top: 30px;
+  padding: 50px;
+  font-size: 15px;
+}
+
+.navbar-brand {
+  font-weight: bolder;
+  color: rgb(233, 233, 233) !important;
+}
+
+.nav-link {
+  font-weight: lighter;
+  color: rgb(233, 233, 233) !important;
+}
+
+.dropdown-item {
+  font-weight: lighter;
+  font-size: 14px;
+  color: rgb(28, 28, 28) !important;
+}
+
+.Header {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+#isel-word {
+  color: rgb(0, 255, 0) !important;
+}
+
+h1 {
+  font-weight: bold;
+  color: rgb(105, 114, 130) !important;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 20px;
+  color: rgb(233, 233, 233) !important;
+}
+
+p {
+  font-weight: regular;
+  text-align: justify;
+  color: rgb(130, 130, 130) !important;
+}
+
+a {
+  font-size: 15px;
+  font-weight: bolder;
+  color: rgb(130, 130, 130) !important;
+}
